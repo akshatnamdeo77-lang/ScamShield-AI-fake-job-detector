@@ -16,7 +16,7 @@ app.add_middleware(
 BASE_DIR = Path(__file__).resolve().parent
 
 # Load the trained ML pipeline
-model = joblib.load(BASE_DIR / "fake_job_detector.pkl")
+model = joblib.load(BASE_DIR / "fake_Job_detector.pkl")
 
 # Our selected classification threshold
 THRESHOLD = 0.3

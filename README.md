@@ -1,7 +1,14 @@
-# 🛡️ ScamShield
-### AI-Powered Fake Job Posting Detection System
 
-ScamShield is an NLP and machine learning based web application designed to analyze job postings and identify potentially fraudulent recruitment opportunities. It analyzes job description text and other job-related attributes to estimate the likelihood of a posting being fraudulent.
+# ScamShield – AI-Powered Fake Job Detection
+
+🔴 **Live Demo:** https://scamshield-six-nu.vercel.app/
+
+💻 **GitHub Repository:** https://github.com/akshatnamdeo77-lang/ScamShield-AI-fake-job-detector
+
+ScamShield is an NLP-powered machine learning application designed to identify potentially fraudulent job postings and help job seekers avoid recruitment scams.
+
+### Try it live
+Visit the website, paste a job description, and scan it to get a fraud prediction and risk probability.
 
 ---
 
